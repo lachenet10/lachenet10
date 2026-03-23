@@ -1,99 +1,65 @@
 #EXTM3U
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2
-http://regioplay.xyz/228022/Hocus.Pocus.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NOPE
-http://regioplay.xyz/228022/Nope.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg", Supermascotas
-http://regioplay.xyz/228022/DC.League.of.Super.Pets.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre
-http://regioplay.xyz/228022/Mentada.de.padre.2019.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el?
-http://regioplay.xyz/228022/Backseat.Driver.2020..lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Luck-722224530-mmed.jpg", LUCK
-http://regioplay.xyz/228022/Luck.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/365_d_as_m_s-458437240-large.jpg", 365 dias mas
-http://regioplay.xyz/228022/365.Days.Part.III.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg", Las Leyendas: El Origen
-http://regioplay.xyz/228022/Las.leyendas.El.origen.2021.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Predator: Prey
-http://regioplay.xyz/228022/Predator_Prey_SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg", Minions Nace un villano 2022
-http://regioplay.xyz/228022/Minions.NaceUnVillano.SrRegio.Net.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/812ofyhW8hL._AC_SY679_.jpg", LightYear 2022
-http://regioplay.xyz/228022/lightyear.2022.SRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-black-phone/images/regions/ar/onesheet.jpg", Telefono negro
-http://regioplay.xyz/228022/El.Telefono.Negro.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/jurassicpark/images/2/2d/Jurassic_World_Dominion_Poster.png/revision/latest?cb=20220612202824", Jurassic World Dominio
-http://regioplay.xyz/228022/JurassicWorldDominio.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://d2rbybg5ibx87t.cloudfront.net/images/621398/original.jpeg?1650310006", Father Stu
-http://regioplay.xyz/228022/Father.Stu.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresh
-http://regioplay.xyz/228022/Fresh.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg", Chip and Dale 2022
-http://regioplay.xyz/228022/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memory: Asesino sin memoria
-http://regioplay.xyz/228022/Memory.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fl0u5uixwaazev7_cphe.jpg", Sonic 2
-http://regioplay.xyz/228022/Sonic.2.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38508-429524-20220118093437.jpg", Que despadre
-http://regioplay.xyz/228022/Qu%C3%A9.despadre.2022.lati.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/12/Uncharted-Poster.jpg?resize=1280%2C1565&quality=80&ssl=1", Uncharted 2022
-http://regioplay.xyz/228022/Uncharted.2022.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67-d56cd3dbf5d0.jpg", 365 dias Aquel dia
-http://regioplay.xyz/228022/365.Dias.Aquel.dia.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
-http://regioplay.xyz/228022/SpiderManNoWayHome2021.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10/scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022
-http://regioplay.xyz/228022/Scream5Grita.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg", Clifford El Gran Perro Rojo
-http://regioplay.xyz/228022/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb=20210819165934&path-prefix=es", Eternals
-http://regioplay.xyz/228022/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
-http://regioplay.xyz/228022/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Sing_2_A_Ven_y_canta_de_nuevo-222346064-large.jpg", Canta 2
-http://regioplay.xyz/228022/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos
-http://regioplay.xyz/228022/The.whole.truth.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg", El diario de Greg
-http://regioplay.xyz/228022/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo
-http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnage liberado
-http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="", Volver al futuro
-https://regioplay.xyz/php/SR_REGIO_800122_/volver_al_futuro.php?f=.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg", Por Fin Solo en Casa
-http://regioplay.xyz/228022/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", Alerta Roja
-http://regioplay.xyz/228022/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos | REGIOFLIX
-http://regioplay.xyz/228022/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi
-http://regioplay.xyz/228022/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", No body sleeps in the woods tonight
-http://regioplay.xyz/228022/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://lh3.googleusercontent.com/proxy/n71yzMVi0V9grBF35VLn-klQSVT2szaY0GuiyQrnwzgcQkCnfugRP1eTpyO8-MmGEkKvIY5itNEZroG2huaD5WuBsSv1Ui7HdymIco9uCw", Polaroid
-http://regioplay.xyz/228022/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://allpeliculas.ac/wp-content/uploads/2021/10/0815e542ae8eccf0e97d2df02e023f0bbTlQchCU05xJZyn4Va8gHkTeayu.jpg", Una momia en Halloween
-http://regioplay.xyz/228022/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018
-http://regioplay.xyz/228022/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01/halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021
-http://regioplay.xyz/228022/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl=1", Free Guy
-http://regioplay.xyz/228022/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800%2C1187&ssl=1", La calle del terror P1
-http://regioplay.xyz/228022/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1", No respires 2
-http://regioplay.xyz/228022/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/You_re_Not_Alone-709818429-mmed.jpg", You´re not alone
-http://regioplay.xyz/228022/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rapidos y Furiosos 9
-http://regioplay.xyz/228022/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate-de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos
-http://regioplay.xyz/228022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era
-http://regioplay.xyz/228022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO
-http://regioplay.xyz/228022/coco.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween Channel ⁽ᴴᴰ⁾" tvg-logo="http://castlempire.site:8080/images/d8e335167abb20f20fae9be0ef088743.png" group-title="⭐️HALOWEEN 2022⭐️Especial Exclusivo ",Halloween Channel ⁽ᴴᴰ⁾
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/235092
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Fiesta" tvg-logo="http://ametv.xyz:25461/images/f5d7d0f8fc3c6a8d06a1021998a1e150.png" group-title="24/7 - MusicMix ",Ultra Fiesta
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194784
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classics" tvg-logo="http://castlempire.site:8080/images/da6935bce4b83a331eeca19577903b4d.png" group-title="24/7 - MusicMix ",MTV Classics
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194785
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Urbano" tvg-logo="http://castlempire.site:8080/images/3dd95ee0ce7a8afb3d2bfbe3dfbd389a.png" group-title="24/7 - MusicMix ",VEVO Urbano
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194786
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Latin Pop" tvg-logo="http://castlempire.site:8080/images/6545c8e1657134369d74844b7b37f0bb.png" group-title="24/7 - MusicMix ",VEVO Latin Pop
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194787
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Reggaton" tvg-logo="http://castlempire.site:8080/images/59d2858a177ef302e490c0e8f1f750f3.png" group-title="24/7 - MusicMix ",VEVO Reggaton
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194788
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Hip-Hop" tvg-logo="http://castlempire.site:8080/images/74df075055303b2bc44a6d7f595f3bf9.png" group-title="24/7 - MusicMix ",VEVO Hip-Hop
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194789
+#EXTINF:-1 tvg-id="" tvg-name="VEVO Metal" tvg-logo="http://castlempire.site:8080/images/74df075055303b2bc44a6d7f595f3bf9.png" group-title="24/7 - MusicMix ",VEVO Metal
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194790
+#EXTINF:-1 tvg-id="" tvg-name=".MCRT Hits" tvg-logo="http://castlempire.site:8080/images/2a149eae530f46e5a2f57f92de457854.png" group-title="24/7 - MusicMix ",.MCRT Hits
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194793
+#EXTINF:-1 tvg-id="" tvg-name=".MCRT Pop Espanol" tvg-logo="http://castlempire.site:8080/images/2a149eae530f46e5a2f57f92de457854.png" group-title="24/7 - MusicMix ",.MCRT Pop Espanol
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194797
+#EXTINF:-1 tvg-id="" tvg-name=".MCRT Banda" tvg-logo="http://castlempire.site:8080/images/2a149eae530f46e5a2f57f92de457854.png" group-title="24/7 - MusicMix ",.MCRT Banda
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194798
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Anime" tvg-logo="http://23.237.120.58/LOGOS/cinemaanime128x128.png" group-title="24/7 - Anime",24/7 Cinema Anime
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/194768
+#EXTINF:-1 tvg-id="" tvg-name="COL | DIRECTV SPORTS 2 HD" tvg-logo="http://castlempire.site:8080/images/3c3f3ae7b8c985359e2efaa5ed6a0c07.jpg" group-title="Colombia",COL | DIRECTV SPORTS 2 HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/193688
+#EXTINF:-1 tvg-id="" tvg-name="CANADA | CP24 HD\" tvg-logo="http://castlempire.site:8080/images/22edca317f8c8ce451e8ac90d60c6e47.png" group-title="Canada ",CANADA | CP24 HD\
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/192849
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 1 CHILE HD " tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="**LIGA CHILENA**⚽",StarPlay SPORTS 1 CHILE HD 
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/179131
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 2 CHILE HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="**LIGA CHILENA**⚽",StarPlay SPORTS 2 CHILE HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/179132
+#EXTINF:-1 tvg-id="" tvg-name="StarPlay SPORTS 3 CHILE HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title="**LIGA CHILENA**⚽",StarPlay SPORTS 3 CHILE HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/198985
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS  HD (E)" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Chile OP2",CHILE | TNT SPORTS  HD (E)
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176196
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS BASICO HD" tvg-logo="http://castlempire.site:8080/images/12c3bae74a93fe15fdb66f06c1f9993d.png" group-title="Chile OP2",CHILE | TNT SPORTS BASICO HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176205
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 FHD" tvg-logo="http://castlempire.site:8080/images/55ad93dbab91714bdb49cd4e272c2348.png" group-title="Chile OP2",CHILE | CANAL 13 FHD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176209
+#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Canal 13 SD" tvg-logo="http://castlempire.site:8080/images/55ad93dbab91714bdb49cd4e272c2348.png" group-title="Chile OP2",CHILE  | Canal 13 SD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176200
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 CHILE CL" tvg-logo="http://castlempire.site:8080/images/55ad93dbab91714bdb49cd4e272c2348.png" group-title="Chile OP2",CANAL 13 CHILE CL
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176206
+#EXTINF:-1 tvg-id="" tvg-name="Chile | CANAL 13 C HD" tvg-logo="http://castlempire.site:8080/images/29e83172fd1b348e6f845d592b4c9e58.png" group-title="Chile OP2",Chile | CANAL 13 C HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176211
+#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Chilevision FHD" tvg-logo="http://castlempire.site:8080/images/b9afedf47d80deef50a97cd3d58493d8.png" group-title="Chile OP2",CHILE  | Chilevision FHD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176197
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE  | Mega FHD" tvg-logo="http://castlempire.site:8080/images/83ba1fa3b4e6c2f346775818ccf98ee7.png" group-title="Chile OP2",CHILE  | Mega FHD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176203
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | Mega HD " tvg-logo="http://castlempire.site:8080/images/83ba1fa3b4e6c2f346775818ccf98ee7.png" group-title="Chile OP2",CHILE | Mega HD 
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176207
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="CHILE | Mega SD" tvg-logo="http://castlempire.site:8080/images/83ba1fa3b4e6c2f346775818ccf98ee7.png" group-title="Chile OP2",CHILE | Mega SD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176208
+#EXTINF:-1 tvg-id="" tvg-name="CHILE  | TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="Chile OP2",CHILE  | TVN HD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176199
+#EXTINF:-1 tvg-id="" tvg-name="Chile | TVN SD" tvg-logo="http://mylatinotv.com:8080/images/chile/tvn.png" group-title="Chile OP2",Chile | TVN SD
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176212
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC TV CHILE" tvg-logo="http://castlempire.site:8080/images/7e3504dbf2bc71d9f5fe57bad3222970.png" group-title="Chile OP2",CHILE | ETC TV CHILE
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176214
+#EXTINF:-1 tvg-id="" tvg-name="CHILE  | Teletrak chile" tvg-logo="http://castlempire.site:8080/images/99c02c6739a113d33cb355da0be831bc.png" group-title="Chile OP2",CHILE  | Teletrak chile
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/176204
+#EXTINF:-1 tvg-id="" tvg-name="Mix 24-7 Tropical" tvg-logo="" group-title="24/7 - MusicMix ",Mix 24-7 Tropical
+http://castlempire.site:8080/Tole12/xddvuXCfMzfk/175100
