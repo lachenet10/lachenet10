@@ -1,34 +1,43 @@
 #EXTM3U
-#EXTINF:-1,--- LISTA GRATIS achoapps.com
-https://www.achoapps.com
-#EXTINF:-1,--- Visita www.achoapps.com ---
+#EXTINF:-1,--- LISTA GRATIS www.achoAPPS.com y www.achoTV.com
+http://www.achoTV.com
+#EXTINF:-1,--- Visita www.achoAPPS.com y www.achoTV.com ---
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/14379.m3u8
+#EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", BIG Radio | HD www.achoAPPS.com
+http://iptv.niumedia.cl/live-streaming-hls/niumedia.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="09y8PS0.png" group-title="Canales Chilenos", TVR | HD www.achoAPPS.com
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+#EXTINF:-1, tvg-logo="mdkkCgQ.png" group-title="Canales Chilenos", UES TV | HD www.achoAPPS.com
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD www.achoAPPS.com
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", Azteca+ Plus
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD www.achoAPPS.com
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.expansion.mx/dims4/default/de126e6/2147483647/thumbnail/800x450%5E/quality/75/?url=https%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2015%2F09%2F28%2Fel-logo-del-canal-que-sumar-esfuerzo-de-televisiones-educativas-de-iberoamrica.jpg" group-title="MEXICO", Canal Iberoamericano
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD www.achoAPPS.com
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", CAPITAL 21 CDMX
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN SeÃ±al de Pruebas | HD www.achoAPPS.com
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg" group-title="MEXICO", Ciudad Tv 21.2
-http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deum3u8che Welle Latino | SD www.achoAPPS.com
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://oreox.net/images/logos-canales/101.png" group-title="MEXICO", TV MEXIQUENSE
-http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="CANAIS INTERNACIONAIS", ARG:CANAL PROVINCIAL SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="CANAIS INTERNACIONAIS", ARG: POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="CANAIS INTERNACIONAIS", ARG: CANAL 9 COMODORO RIVADAVIA SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
