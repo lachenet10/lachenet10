@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" group-title="TV4", SUPER MARIO BROS
+#EXTINF:-1 tvg-id="id_canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8i9OV_fxgClIQgV0v_ThKYeMVfKXlaxYu2g&s" group-title="Grupo",SUPER MARIO BROS
 https://ia800703.us.archive.org/16/items/super-mario-bros-2023_202603/Super%20Mario%20Bros%202023.mp4
 #EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", NOWHERE
 https://ia600607.us.archive.org/7/items/enemigo-mio_202603/Nowhere.mp4
