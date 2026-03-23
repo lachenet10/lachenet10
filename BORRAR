@@ -4,41 +4,14 @@
  
 https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fkaBjIA.jpg",Listas de ANIME
+#EXTINF:-1 tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQHJlC2dlLqeeEwFLIzfQme8a_y0BF7HiwWQ4uTVQtsjsUIqNFU" group-title="CINE", Passengers
+http://bit.ly/2syh5IM
  
-#EXTINF:-1
-https://www.youtube.com/watch?v=cNRol_yvmfQ
-#EXTINF:-1
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1
-https://www.youtube.com/watch?v=ryFbXyvSBP8
-#EXTINF:-1
-https://www.youtube.com/watch?v=DGWIWVodNKM
-#EXTINF:-1
-https://www.youtube.com/watch?v=bGr7bomKVnM
-#EXTINF:-1
-https://www.youtube.com/watch?v=cx57Seumnyk&t=454s
-#EXTINF:-1
-https://www.youtube.com/watch?v=yYcjx1Q8aH4
-#EXTINF:-1
-https://www.youtube.com/watch?v=Cibxq93v-PY
-#EXTINF:-1
-https://www.youtube.com/watch?v=Fw0q4hrvCvc
-#EXTINF:-1
-https://www.youtube.com/watch?v=OcBrjsjGIXM
-#EXTINF:-1
-https://www.youtube.com/watch?v=Sk2aPMVWLV8
-#EXTINF:-1
-https://www.youtube.com/watch?v=a4613TJxjrk
-#EXTINF:-1
-https://www.youtube.com/watch?v=T6Sp0xGVNEM
-#EXTINF:-1
-https://www.youtube.com/watch?v=DUvzl9dA-84
-#EXTINF:-1
-https://www.youtube.com/watch?v=n1QqJN19u_k
-#EXTINF:-1
-https://www.youtube.com/watch?v=UugPTCezFLM
-#EXTINF:-1
-https://www.youtube.com/watch?v=FMBUQrFgK4c
-#EXTINF:-1
-https://www.youtube.com/watch?v=ALCvrUbNHFo
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/noticias-cine/lego-ninjago-movie-cartel-trailer/128208686-1-esl-ES/The-LEGO-NINJAGO-Movie-Cartel-y-trailer-de-la-pelicula_portrait.jpg" group-title="PELICULAS NUEVAS", NinjaGO
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+ 
+#EXTINF:-1, La Morgue 2016
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+ 
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
