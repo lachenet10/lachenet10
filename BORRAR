@@ -1,52 +1,8 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
-
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Baby First
-http://45.5.119.43:4000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Boomerang
-http://45.5.119.43:4000/play/a0g0/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", CARTOON NT HD
-http://45.5.119.43:4000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", CARTOON NT HD (clone)
-http://45.5.119.43:4000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Discovery Kids
-http://45.5.119.43:4000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Disney JR
-http://45.5.119.43:4000/play/a0g1/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Disney channel
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Nick 2 HD
-http://45.5.119.43:4000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Nick Jr
-http://45.5.119.43:4000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Nickelodeon HD
-http://45.5.119.43:4000/play/a0hs/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", SEMILLITAS
-http://45.5.119.43:4000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Tooncast
-http://45.5.119.43:4000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Adult Swim
-http://45.5.119.43:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal 11 - GUA
-http://45.5.119.43:4000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal 13-GUA
-http://45.5.119.43:4000/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal 3 - GUA
-http://45.5.119.43:4000/play/a0h5/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal 7 - GUA
-http://45.5.119.43:4000/play/a0h4/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal Antigua - GUA
-http://45.5.119.43:4000/play/a0h2/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal Azteca - GUA
-http://45.5.119.43:4000/play/a0h3/index.m3u8
-#EXTINF:-1 tvg-shift="-6"  group-title="TV3", Canal Guatevision - GUA
-http://45.5.119.43:4000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Noticias",RT Español
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,noticias Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,noticias AZTECA
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,noticias FRANCE 24 en español
+http://stream-04.nyc.dailymotion.com/27/dm/3/x5umuu2/live-2.m3u8
