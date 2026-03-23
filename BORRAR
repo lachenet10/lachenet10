@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="Noticias",RT Español
 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,noticias Telesur
