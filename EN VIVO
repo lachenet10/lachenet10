@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="-" group-title="TV4", A&E HD
 http://play.agenciastreaming.com:8080/canala1/video.m3u8
-#EXTINF:-1 group-title="-" group-title="TV4", A&E HD
+#EXTINF:-1 group-title="-" group-title="TV4", Red Uno Bolivia
 https://live.eu-north-1a.cf.dmcdn.net/sec2(SU1ErMsL6pfvaznE4m_Iya4ix2l8lqdB7-YNsaER65UclJt7E-Ps71IXzXA0e1ZRO6ahVGHWVU-mB7n1peV5CqKJEyQuGRyD1cXVrJXbUon6oFf742VrUjw5wchZfroV)/dm/3/x9n2qyk/d/live-480.m3u8
 
