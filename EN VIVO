@@ -11,3 +11,5 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?uid=91816
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, A1
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, warcraft
+https://login.antpathads.com/fc.php?script=rmvideoAds:rmvastEvent&bannerid=107&zoneid=18&event=midpoint
