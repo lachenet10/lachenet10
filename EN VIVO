@@ -12,4 +12,4 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, A1
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, warcraft
-https://login.antpathads.com/fc.php?script=rmvideoAds:rmvastEvent&bannerid=107&zoneid=18&event=midpoint
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/68a3a97fd8f7693ae3f8575f/3321280/playlist.m3u8
