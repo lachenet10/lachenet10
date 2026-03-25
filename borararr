@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="-" group-title="TV4", A&E HD
+http://play.agenciastreaming.com:8080/canala1/video.m3u8
+#EXTINF:-1, RPP
+https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1, QOLLASUYO TV
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Cositel Juliaca
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?uid=9181603
+#EXTINF:-1, RTP
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
+#EXTINF:-1, A1
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, warcraft
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5ffcc21a432945000762d06b/3321280/playlist.m3u8
