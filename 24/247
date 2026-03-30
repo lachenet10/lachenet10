@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://www.themoviedb.org/t/p/original/sKXlWh2hWpLzSeDmKLMg0ekUUa1.jpg" group-title="24/7 SERIES RETRO",24/7 ALF
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43347.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ANNABELLE • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNdDToUdN9V16ZCaa1thMEiRBqvcRn34b4Q&s" group-title="24/7 CINEMA",24/7 ANNABELLE • LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182483.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Aquellos maravillosos 70 (1998)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jvJWDEua3tKWY4M87PHDpdAFtfS.jpg" group-title="24/7 SERIES RETRO",24/7 Aquellos maravillosos 70 (1998)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43348.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los Titanes - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Ataque a los Titanes - LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182242.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Barry (2018) - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmF7KGGZhX20-ymmnrcduxW9SeuJQFZXkuA&usqp=CAU" group-title="24/7 SERIES ACTUALES",24/7 Barry (2018) - LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163447.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (1966)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg" group-title="24/7 SERIES RETRO",24/7 Batman (1966)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43350.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg" group-title="24/7 SERIES RETRO",24/7 BAYWATCH RETRO
