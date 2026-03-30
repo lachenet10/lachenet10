@@ -11,5 +11,31 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?uid=91816
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, A1
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
-#EXTINF:-1, Pachama Tv
-https://www.facebook.com/watch/live/?ref=watch_permalink&v=972574052000924&rdid=0RPuYDE4uGzZAaQ3
+#EXTINF:-1 tvg-id="" tvg-name="01 | STAR + (ESPN)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",01 | STAR + (ESPN)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116308.ts
+#EXTINF:-1 tvg-id="" tvg-name="02 | STAR + (ESP2)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",02 | STAR + (ESP2)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116309.ts
+#EXTINF:-1 tvg-id="" tvg-name="03 | STAR + (ESP3)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",03 | STAR + (ESP3)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116310.ts
+#EXTINF:-1 tvg-id="" tvg-name="04 | STAR + (ESP4)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",04 | STAR + (ESP4)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116311.ts
+#EXTINF:-1 tvg-id="" tvg-name="05 | STAR + (ESP5)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",05 | STAR + (ESP5)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116312.ts
+#EXTINF:-1 tvg-id="" tvg-name="06 | STAR + (ESP6)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",06 | STAR + (ESP6)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116313.ts
+#EXTINF:-1 tvg-id="" tvg-name="07 | STAR + (ESP7)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",07 | STAR + (ESP7)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116314.ts
+#EXTINF:-1 tvg-id="" tvg-name="08 | STAR + (FS PR)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",08 | STAR + (FS PR)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116315.ts
+#EXTINF:-1 tvg-id="" tvg-name="09 | STAR + (ESP DEP)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",09 | STAR + (ESP DEP)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116316.ts
+#EXTINF:-1 tvg-id="" tvg-name="10 | STAR + (TNT USA)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",10 | STAR + (TNT USA)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116317.ts
+#EXTINF:-1 tvg-id="" tvg-name="11 | STAR + (ESP PR)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",11 | STAR + (ESP PR)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116318.ts
+#EXTINF:-1 tvg-id="" tvg-name="12 | STAR + (STAR+ 01)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",12 | STAR + (STAR+ 01)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116319.ts
+#EXTINF:-1 tvg-id="" tvg-name="13 | STAR + (STAR+ 02)" tvg-logo="http://lista.lamtv.site:8080/images/b74efa8e-5cf9-4dd3-9b5a-c45ff6861150.jpg" group-title="⚽ EVENTOS DISNEY+",13 | STAR + (STAR+ 02)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/116320.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqzB0udyPOH19PIBam9Hlur16NEEedeRTymw&s" group-title="⚽ SSC TV (SOLO EVENTOS)",AR: SSC Sport 1
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/143845.ts
