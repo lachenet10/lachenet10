@@ -1,15 +1,31 @@
 #EXTM3U
-#EXTINF:-1, Canal A1 Juliaca
+#EXTINF:-1, America Tv
+https://live-evg20.tv360.bitel.com.pe/QFcd-54LV9Ia7V80eF-VcA/1774971114/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+#EXTINF:-1, A1 Puno
 http://play.agenciastreaming.com:8080/canala1/video.m3u8
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
-#EXTINF:-1, QOLLASUYO TV
+#EXTINF:-1, QOLLASUYO Juliaca
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
-#EXTINF:-1, Cositel Juliaca
+#EXTINF:-1, Cositel Puno
 https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?uid=9181603
-#EXTINF:-1, RTP
+#EXTINF:-1, Xtremo Tv Puno
+https://live-evg18.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
+#EXTINF:-1, RTP Puno
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, Nativa
-https://live-evg5.tv360.bitel.com.pe/bitel/nativa/l_39397_26790000_4465.ts?uid=241208
-
-
+https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=8343375
+#EXTINF:-1, Casma Tv
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/chunks.m3u8
+#EXTINF:-1, OD TV
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv2/chunks.m3u8?uid=8343375
+#EXTINF:-1, FMH movies
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8?manifestfilter=video_bitrate:1-1500000
+#EXTINF:-1, FMH Kids
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
+#EXTINF:-1, Atlantis Tv Ayacucho
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/chunks.m3u8?uid=5272811
+#EXTINF:-1, Unicentro Tv
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
+#EXTINF:-1, Yoli TV
+https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
