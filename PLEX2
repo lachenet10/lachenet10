@@ -5,3 +5,5 @@ http://192.168.1.13:5000/?timestamp=1774329686&launchApp=SYNO.VideoController2.A
 https://gofile.me/7mqbh/vjBfZCCdR
 #EXTINF:-1, MINECRAF222
 http://192.168.1.13:5000/?timestamp=1774329686&launchApp=SYNO.VideoController2.Application&SynoToken=77nkKsyOaskys&launchParam=player_id%3Dstreaming%26browse_type%3Dfilevideo%26video_type%3Dfilevideo%26is_drive%3Dfalse%26path%3D%252Fvolume1%252FPlexMediaServer%252Fdrivepool%252Fmedia%252FEstrenos%25202025%252FSuperman%2520(2025).mkv
+#EXTINF:-1, NOLA
+http://192.168.1.13:5000/?timestamp=1774329686
