@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, MINECRAFT
+http://192.168.1.13:5000/?timestamp=1774329686&launchApp=SYNO.VideoController2.Application&SynoToken=77nkKsyOaskys&launchParam=player_id%3Dstreaming%26browse_type%3Dfilevideo%26video_type%3Dfilevideo%26is_drive%3Dfalse%26path%3D%252Fvolume1%252FPlexMediaServer%252Fdrivepool%252Fmedia%252FEstrenos%25202025%252FUna%2520pelicula%2520de%2520Minecraft%25202025.mkv
