@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="104 | L1MAX ᴴᴰ (Ex Liga 1 Max)" tvg-logo="http://imgfz.com/i/mZRSFou.jpeg" group-title="⭐ LOS MÁS VISTOS ⭐",104 | L1MAX ᴴᴰ (Ex Liga 1 Max)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/79367.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | CONTACTO TV" tvg-logo="http://lista.lamtv.site:8080/images/11b6bf42f5ac918865dbe508f86c99ba.png" group-title="➡ PERU DEPORTES",PE | CONTACTO TV
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/110.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE | L1 OP1 - (Ex Liga 1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1HgNv5Y27wtO0u-5c-rXNtH7dxAZ_8KGLw&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1 OP1 - (Ex Liga 1)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/119.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE | L1 OP2 - (Ex Liga 1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1HgNv5Y27wtO0u-5c-rXNtH7dxAZ_8KGLw&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1 OP2 - (Ex Liga 1)
