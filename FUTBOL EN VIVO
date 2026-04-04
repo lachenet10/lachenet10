@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="104 | L1MAX ᴴᴰ (Ex Liga 1 Max)" tvg-logo="http://imgfz.com/i/mZRSFou.jpeg" group-title="⭐ LOS MÁS VISTOS ⭐",104 | L1MAX ᴴᴰ (Ex Liga 1 Max)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/79367.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1 OP1 - (Ex Liga 1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1HgNv5Y27wtO0u-5c-rXNtH7dxAZ_8KGLw&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1 OP1 - (Ex Liga 1)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/119.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1 OP2 - (Ex Liga 1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1HgNv5Y27wtO0u-5c-rXNtH7dxAZ_8KGLw&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1 OP2 - (Ex Liga 1)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1MAX OP1 - (Ex Liga 1 Max)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEGMtkLL9rZsBXvflLuGw212Msr2ph2TOmg&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1MAX OP1 - (Ex Liga 1 Max)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1MAX OP2 - (Ex Liga 1 Max)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEGMtkLL9rZsBXvflLuGw212Msr2ph2TOmg&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1MAX OP2 - (Ex Liga 1 Max)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1MAX OP3 - (Ex Liga 1 Max)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEGMtkLL9rZsBXvflLuGw212Msr2ph2TOmg&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1MAX OP3 - (Ex Liga 1 Max)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE | L1MAX OP4 - (Ex Liga 1 Max)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjEGMtkLL9rZsBXvflLuGw212Msr2ph2TOmg&usqp=CAU" group-title="➡ PERU DEPORTES",PE | L1MAX OP4 - (Ex Liga 1 Max)
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/125736.ts
