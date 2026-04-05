@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://www.themoviedb.org/t/p/original/sKXlWh2hWpLzSeDmKLMg0ekUUa1.jpg" group-title="24/7 SERIES RETRO",24/7 ALF
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43347.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Aquellos maravillosos 70 (1998)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jvJWDEua3tKWY4M87PHDpdAFtfS.jpg" group-title="24/7 SERIES RETRO",24/7 Aquellos maravillosos 70 (1998)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43348.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los Titanes - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Ataque a los Titanes - LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182242.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman (1966)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg" group-title="24/7 SERIES RETRO",24/7 Batman (1966)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43350.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BAYWATCH RETRO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg" group-title="24/7 SERIES RETRO",24/7 BAYWATCH RETRO
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43351.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 (2005)" tvg-logo="" group-title="24/7 INFANTILES",24/7 Ben 10 (2005)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53162.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 (2016)" tvg-logo="" group-title="24/7 INFANTILES",24/7 Ben 10 (2016)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53163.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Blanco y negro (1978)" tvg-logo="" group-title="24/7 SERIES RETRO",24/7 Blanco y negro (1978)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43352.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja" tvg-logo="https://tvdirecto.club:443/images/tcjBMuCD8M_zcpZuORRWzZTzi7hDrnb2qpmDviSFCU1YTJIk_sEj1cPTnK39QgbkE2gbfXoBvWN4-plvWWvlhdT-msoTLI6KmSac6JS-BuSdupdkcGPA-wJIAJ0OahN7anBW_1c33GMX4Lm5CVv6Tg.jpeg" group-title="24/7 INFANTILES",24/7 Bob Esponja
@@ -33,10 +23,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53166.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53167.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 CINE 2023" tvg-logo="" group-title="24/7 CINEMA",24/7 CINE 2023
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/40218.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon (e)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Digimon (e)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160072.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure 1999" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg" group-title="24/7 INFANTILES",24/7 Digimon Adventure 1999
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53168.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios 1991" tvg-logo="" group-title="24/7 INFANTILES",24/7 Dinosaurios 1991
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53170.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Don gato y su pandilla" tvg-logo="" group-title="24/7 INFANTILES",24/7 Don gato y su pandilla
@@ -65,8 +51,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43358.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160081.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 SERIES RETRO",24/7 El Auto Fantastico
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43359.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Avispón Verde" tvg-logo="" group-title="24/7 SERIES RETRO",24/7 El Avispón Verde
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43349.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado (1973)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 SERIES RETRO",24/7 El Chapulín Colorado (1973)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43360.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO ANIMADO" tvg-logo="https://tvdirecto.club:443/images/vvt2zbl8W4F67YLGOHl5c6knzd26QWryb_VTP8xAaVKXI6uq2-kJ2coynhfXG56zFhjKkt9lbduwKAOwuesk5rT9YOS2coU2dsrK-OvaMNM.jpg" group-title="24/7 INFANTILES",24/7 EL CHAVO ANIMADO
@@ -83,12 +67,8 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43361.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53179.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El juego del calamar (2021) • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmF7KGGZhX20-ymmnrcduxW9SeuJQFZXkuA&usqp=CAU" group-title="24/7 SERIES ACTUALES",24/7 El juego del calamar (2021) • LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163225.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3fe4fVFJ2QzwKHOo24QwkpuA6OI.jpg" group-title="24/7 INFANTILES",24/7 El Pajaro Loco
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53180.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/agYZXD9iChdxxv0eVHlZjeGRXaY.jpg" group-title="24/7 SERIES RETRO",24/7 El Principe del Rap
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43362.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pájaro Loco y sus Amigos" tvg-logo="http://www.skytvpluzz.online:8000/images/a83720436f069f17f1e9d856bd9f5c32.png" group-title="24/7 INFANTILES",24/7 El Pájaro Loco y sus Amigos
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/62264.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/z8UlaXPb4L5bYZWhH9Ocq3w0HDr.jpg" group-title="24/7 SERIES RETRO",24/7 El Superagente 86 (1965)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43363.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Zorro (1957)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3NYCvY6TEgjbJc9xYrgH98qNeMy.jpg" group-title="24/7 SERIES RETRO",24/7 El Zorro (1957)
@@ -107,34 +87,22 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163038.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182502.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" group-title="24/7 SERIES RETRO",24/7 Kenan & Kel
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43365.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de Mickey Mouse (2006)" tvg-logo="" group-title="24/7 INFANTILES",24/7 La casa de Mickey Mouse (2006)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53185.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Ingalls (1974)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dRQ1B9nSsbtcLiMFSJDmX5MDsV3.jpg" group-title="24/7 SERIES RETRO",24/7 La familia Ingalls (1974)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43366.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Monster (1964)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dF4P2k9XgeFUT3OetAJqJJ0uQUj.jpg" group-title="24/7 SERIES RETRO",24/7 La familia Monster (1964)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43367.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La mujer maravilla (1975)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7vHxWO6ahByDWzWufFL48MXaktT.jpg" group-title="24/7 SERIES RETRO",24/7 La mujer maravilla (1975)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43370.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pequeña Lulú" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg" group-title="24/7 INFANTILES",24/7 La pequeña Lulú
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53188.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La pequeña maravilla (1985)" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/beaMCxE00CGMSk6MVCcvhZkwqSV.jpg" group-title="24/7 SERIES RETRO",24/7 La pequeña maravilla (1985)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43372.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LA PROFECÍA • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNdDToUdN9V16ZCaa1thMEiRBqvcRn34b4Q&s" group-title="24/7 CINEMA",24/7 LA PROFECÍA • LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182484.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La teoría del Big Bang (2007) • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmF7KGGZhX20-ymmnrcduxW9SeuJQFZXkuA&usqp=CAU" group-title="24/7 SERIES ACTUALES",24/7 La teoría del Big Bang (2007) • LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163042.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n8M0tl1V2QYRLbs3hPQfJgQgTgT.jpg" group-title="24/7 INFANTILES",24/7 Las chicas superpoderosas
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53189.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lazy Town (2004)" tvg-logo="" group-title="24/7 INFANTILES",24/7 Lazy Town (2004)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53190.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Los Caballeros del Zodiaco (e)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160083.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiako" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykCTs8Iw65TIzeDfNCtGJsd7Owe.jpg" group-title="24/7 SERIES RETRO",24/7 Los Caballeros del Zodiako
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43373.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los magnificos (1983) • LTV" tvg-logo="https://seriesretro.com/wp-content/uploads/2020/06/5ed8d22a4ac42_originalcursi1.png" group-title="24/7 SERIES RETRO",24/7 Los magnificos (1983) • LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163039.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Padrinos Magicos" tvg-logo="" group-title="24/7 INFANTILES",24/7 Los Padrinos Magicos
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53192.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aLAGnSe7XCTTIXHlsbkTbtLEjG3.jpg" group-title="24/7 INFANTILES",24/7 Los Picapiedra
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53193.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON 1" tvg-logo="" group-title="24/7 INFANTILES",24/7 LOS SIMPSON 1
@@ -143,8 +111,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53194.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53195.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON 3" tvg-logo="" group-title="24/7 INFANTILES",24/7 LOS SIMPSON 3
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53196.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwvNu121w5zGWA5i7d7gDBrLgmN.jpg" group-title="24/7 INFANTILES",24/7 Masha y el Oso
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/137862.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Matrimonio con hijos (1987) - LTV" tvg-logo="https://seriesretro.com/wp-content/uploads/2020/06/5ed8d22a4ac42_originalcursi1.png" group-title="24/7 SERIES RETRO",24/7 Matrimonio con hijos (1987) - LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163463.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MATRIX - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNdDToUdN9V16ZCaa1thMEiRBqvcRn34b4Q&s" group-title="24/7 CINEMA",24/7 MATRIX - LTV
@@ -165,12 +131,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160086.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182243.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Paisana Jacinta" tvg-logo="" group-title="24/7 SERIES RETRO",24/7 Paisana Jacinta
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43376.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW Patrol (2013)" tvg-logo="" group-title="24/7 INFANTILES",24/7 PAW Patrol (2013)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53198.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="24/7 INFANTILES",24/7 Peppa Pig
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53199.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro (1995)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8vOh5PAM3BUSXN0ZYbavhe6U3C2.jpg" group-title="24/7 INFANTILES",24/7 Pinky y Cerebro (1995)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53213.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon (e)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Pokemon (e)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160090.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Popeye el marino" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg" group-title="24/7 INFANTILES",24/7 Popeye el marino
@@ -189,14 +149,8 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/79219.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182926.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SAGA RAPIDOS Y FURIOSOS" tvg-logo="https://tvdirecto.club:443/images/EB86KlnO0n7ZGx3n6A9hhC6ykjaa7OZdA4k-we3goJyMYaFsJ2Ziw2B9ltCKvENClG8tAzWUQ1h2rwcV8gKNoMwbsp56snYugCVAE7xQRj0Ps1TX-KnjZTaV81Gcb6kU.jpg" group-title="24/7 CINEMA",24/7 SAGA RAPIDOS Y FURIOSOS
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/40220.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon (e)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Sailor Moon (e)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160092.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld (1989) • LTV" tvg-logo="https://seriesretro.com/wp-content/uploads/2020/06/5ed8d22a4ac42_originalcursi1.png" group-title="24/7 SERIES RETRO",24/7 Seinfeld (1989) • LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/163208.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SERIES INFANTILES | ANIMANIACS" tvg-logo="https://tvdirecto.club:443/images/vvt2zbl8W4F67YLGOHl5c6knzd26QWryb_VTP8xAaVKBJ3otZZtCNbG-zU6qnmslZqU17rGCibz5WqmW1sRGa08H7mBCxvbLhsmOodO0y6Q.jpg" group-title="24/7 INFANTILES",24/7 SERIES INFANTILES | ANIMANIACS
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53204.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SPY KIDS • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNdDToUdN9V16ZCaa1thMEiRBqvcRn34b4Q&s" group-title="24/7 CINEMA",24/7 SPY KIDS • LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182490.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNdDToUdN9V16ZCaa1thMEiRBqvcRn34b4Q&s" group-title="24/7 CINEMA",24/7 STAR TREK • LTV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/182925.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things (2016) - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmF7KGGZhX20-ymmnrcduxW9SeuJQFZXkuA&usqp=CAU" group-title="24/7 SERIES ACTUALES",24/7 Stranger Things (2016) - LTV
@@ -209,12 +163,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/160093.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53209.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 XENA LA PRINCESA GUERRERA" tvg-logo="" group-title="24/7 SERIES RETRO",24/7 XENA LA PRINCESA GUERRERA
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43377.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 YU-GI-OH" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hi1alcvK7Dg4TmJglJuLhYR0S4p.jpg" group-title="24/7 SERIES RETRO",24/7 YU-GI-OH
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/43378.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yu-Gi-Oh - LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVMgtBk75-ca3Yo8_pnH5Q3KfIJLn5FvJ_GjXqFfUWhWH724ZkK04DkM&s=10" group-title="24/7 ANIME",24/7 Yu-Gi-Oh - LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/179680.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Zoey 101 (2005)" tvg-logo="" group-title="24/7 INFANTILES",24/7 Zoey 101 (2005)
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53210.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Alerta Aeropuerto Peru" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | Alerta Aeropuerto Peru
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/40221.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | ANIMANIACS
@@ -305,10 +253,6 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/195163.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/133648.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | SUPER CAMPEONES" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | SUPER CAMPEONES
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/127706.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | The Big Bang Theory
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/40233.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | THE BIG BANG THEORY
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/127709.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The mandolarian TEMPORADA 3" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | The mandolarian TEMPORADA 3
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/40234.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | THE WALKING DEAD" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | THE WALKING DEAD
@@ -317,14 +261,10 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/127711.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/127712.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |Saga (Marvel Heroes)" tvg-logo="https://www.pngkey.com/png/detail/431-4313355_marvel-heroes-transparent-png-marvel-super-heroes-png.png" group-title="24/7 CINEMA",24/7 |Saga (Marvel Heroes)
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/133646.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ¡Oye Arnold!" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/82DbN5jfDkFc2JSYSJVS51j7okA.jpg" group-title="24/7 INFANTILES",24/7 ¡Oye Arnold!
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/53211.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7"24/7 DESTINO FINAL" tvg-logo="https://i.pinimg.com/736x/14/77/55/1477559b9fed9038d0ace18086284223.jpg" group-title="24/7 CINEMA",24/7"24/7 DESTINO FINAL
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/133623.ts
 #EXTINF:-1 tvg-id="" tvg-name="Frecuencia Musical TV" tvg-logo="" group-title="24/7 SERIES RETRO",Frecuencia Musical TV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/79220.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Todo el mundo odia a Chris (2005) • LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmF7KGGZhX20-ymmnrcduxW9SeuJQFZXkuA&usqp=CAU" group-title="24/7 SERIES ACTUALES",24/7 Todo el mundo odia a Chris (2005) • LTV
-http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/227099.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pablo Escobar" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 Pablo Escobar
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/260046.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios sin Resolver (480p)" tvg-logo="https://i.imgur.com/8mnvubb.png" group-title="➡ ESPAÑA - AUTONOMICOS",Pluto TV Misterios sin Resolver (480p)
