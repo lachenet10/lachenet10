@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1, America Tv
-https://live-evg20.tv360.bitel.com.pe/QFcd-54LV9Ia7V80eF-VcA/1774971114/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
 #EXTINF:-1, A1 Puno
 http://play.agenciastreaming.com:8080/canala1/video.m3u8
+#EXTINF:-1, AUNO PUNO
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1, Ovacion TV
+https://live-bd3.tv360.bitel.com.pe/bitel/ovaciontv_ori/chunks.m3u8
 #EXTINF:-1, QOLLASUYO Juliaca
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 #EXTINF:-1, Cositel Puno
@@ -13,19 +15,73 @@ https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?uid=91816
 https://live-evg18.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
 #EXTINF:-1, RTP Puno
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
+#EXTINF:-1, Antena Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Qosqo Times
+https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
+#EXTINF:-1, KBO Television
+https://live-evg18.tv360.bitel.com.pe/bitel/kbo/chunks.m3u8
+#EXTINF:-1, Wayra TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1, Telecentro
+https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8
+#EXTINF:-1, Imperial TV
+https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Unitel TV
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
+#EXTINF:-1, Rumba TV
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8
+#EXTINF:-1, Teleselva
+https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8
+#EXTINF:-1, TVO+
+https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
+#EXTINF:-1, Mac TV
+https://live-evg8.tv360.bitel.com.pe/bitel/mactv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Mas TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastv/chunks.m3u8
+#EXTINF:-1, Master TV
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Tarapoto TV
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
+#EXTINF:-1, TV Mar
+https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
 #EXTINF:-1, Nativa
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=8343375
 #EXTINF:-1, Casma Tv
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/chunks.m3u8
 #EXTINF:-1, OD TV
 https://live-evg5.tv360.bitel.com.pe/bitel/odtv2/chunks.m3u8?uid=8343375
+#EXTINF:-1, TV+ Chincha
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:-1, FMH movies
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8?manifestfilter=video_bitrate:1-1500000
 #EXTINF:-1, FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
+#EXTINF:-1, Creo Kids
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+#EXTINF:-1, Anima Kids
+https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8343375
+#EXTINF:-1, Huaral en Linea
+https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8?uid=8343375
+#EXTINF:-1, Doble C
+https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
+#EXTINF:-1, Riku TV
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
 #EXTINF:-1, Atlantis Tv Ayacucho
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/chunks.m3u8?uid=5272811
+#EXTINF:-1, Aura TV
+https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Vision Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur-UDP_abr/bitel/visionsur-UDP_480p/chunks.m3u8?uid=13457839
 #EXTINF:-1, Unicentro Tv
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
+#EXTINF:-1, Huanta TV
+https://live-evg18.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
+#EXTINF:-1, NKZ TV
+https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=8343375
+#EXTINF:-1, Canal 34
+https://live-evg10.tv360.bitel.com.pe/bitel/canal34SRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, Yoli TV
 https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Folklore TV
+https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
