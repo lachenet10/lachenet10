@@ -3,6 +3,8 @@
 http://play.agenciastreaming.com:8080/canala1/video.m3u8
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, ESPN LIVE
+atv://antenna:51/atsc/51/0
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Ovacion TV
