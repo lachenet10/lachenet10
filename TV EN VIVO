@@ -81,6 +81,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?uid=8343375
 #EXTINF:-1, Canal 34
 https://live-evg10.tv360.bitel.com.pe/bitel/canal34SRT/chunks.m3u8?uid=8343375
+#EXTINF:-1 tvg-id="EliasPinaTV.do@SD" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="General",Elias Pina TV (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1, Yoli TV
 https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, Folklore TV
