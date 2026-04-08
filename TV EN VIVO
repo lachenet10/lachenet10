@@ -3,8 +3,6 @@
 http://play.agenciastreaming.com:8080/canala1/video.m3u8
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
-#EXTINF:-1, ESPN LIVE
-atv://antenna:51/atsc/51/0
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Ovacion TV
@@ -87,3 +85,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/canal34SRT/chunks.m3u8?uid=8343375
 https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, Folklore TV
 https://live-evg18.tv360.bitel.com.pe/bitel/folkloretvSRT/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Reino Infantil
+https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Reino Infantil
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
