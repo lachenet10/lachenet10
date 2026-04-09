@@ -19,6 +19,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, Bolivia TV
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(bPHAgWFbM-PpWNYEn8c-ZVeVChxiIPDyBz0QSTSbb3w-brlCtNo8UoKZ8FEap9_rIb96IZfNihe2OPYDYYGCbze4rMhab4_f-vvfGtLZvHNDI7Fu9mcFPfhMZcgsiu_A)/cloud/3/x9nzqpo/d/live-380.m3u8
+#EXTINF:-1, Red Uno Bolivia
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(aoCA-lVHG-dJ7UecrDwrKByG1XicPnFYucKshLlrrqCZdhTrKjQfwyxTrrWdhaR1zexJvzYNzbwOAgNw-bd-WE8NwEbyi_bOfFw_amm82LQT-KT4ZIfkj7huc9RNVVHz)/cloud/3/x9n2qyk/d/live-380.m3u8
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, KBO Television
