@@ -103,3 +103,5 @@ https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1, ATB BOLI
+devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@932ffddafa9ddc65da0b5b1693b3d3492a70893f/&can_dock=true&panel=elements#:~:text=https%3A//live.eu%2Dnorth%2D1a.cf.dmcdn.net/sec2(3B2h57aoTvSfG6BBx2MOoOHDvivs_PevvTtG95GlOXJ64hdprn7QK%2DLIuyr4FUQUtpdq4gEcFnJq8b7Ed8xlma5s0Dnql0ZLGGQEkAFsy0FCLdoskoDTpVoUYuYKfImt)/dm/3/x84eirw/s/live%2D380.m3u8
