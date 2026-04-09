@@ -17,12 +17,10 @@ https://live-evg18.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
-#EXTINF:-1, Bolivia TV
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(bPHAgWFbM-PpWNYEn8c-ZVeVChxiIPDyBz0QSTSbb3w-brlCtNo8UoKZ8FEap9_rIb96IZfNihe2OPYDYYGCbze4rMhab4_f-vvfGtLZvHNDI7Fu9mcFPfhMZcgsiu_A)/cloud/3/x9nzqpo/d/live-380.m3u8
-#EXTINF:-1, Red Uno Bolivia
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(aoCA-lVHG-dJ7UecrDwrKByG1XicPnFYucKshLlrrqCZdhTrKjQfwyxTrrWdhaR1zexJvzYNzbwOAgNw-bd-WE8NwEbyi_bOfFw_amm82LQT-KT4ZIfkj7huc9RNVVHz)/cloud/3/x9n2qyk/d/live-380.m3u8
-#EXTINF:-1, ATB Bolivia
-https://live.eu-north-1a.cf.dmcdn.net/sec2(kE2THoPsM8mujL3byFGK5dmEHoW7s2rCKvRYMbgljmrVnislbt8anWcYaYndyJuPs7_IffoMr6iYVubzvaVx9Q10It3PFdOtc3KNJmvGNoVEIZKJxWqJzZEQN0GXyhG9)/dm/3/x84eirw/s/live-380.m3u8
+#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
+https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
+https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, KBO Television
@@ -103,5 +101,3 @@ https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan (1080p)
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1, ATB BOLI
-devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@932ffddafa9ddc65da0b5b1693b3d3492a70893f/&can_dock=true&panel=elements#:~:text=https%3A//live.eu%2Dnorth%2D1a.cf.dmcdn.net/sec2(3B2h57aoTvSfG6BBx2MOoOHDvivs_PevvTtG95GlOXJ64hdprn7QK%2DLIuyr4FUQUtpdq4gEcFnJq8b7Ed8xlma5s0Dnql0ZLGGQEkAFsy0FCLdoskoDTpVoUYuYKfImt)/dm/3/x84eirw/s/live%2D380.m3u8
