@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 BTV
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(vJdL136YehHMGAJXbfiawsS_iOHExC2PQ28W96xv0iq3DkF-WsskUhJ2yBSY89pFBtdnEbvuBl1RMn91dG-bWSrGn_GgwtOHSDnsL3vLdZpJ0F1T4ttfB7oMlqLiQQ-B)/cloud/3/x9nzqpo/d/live-380.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
