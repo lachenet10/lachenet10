@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, A1 Puno
-http://play.agenciastreaming.com:8080/canala1/video.m3u8
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1 tvg-id="" tvg-name="PE | CONTACTO TV" tvg-logo="http://lista.lamtv.site:8080/images/11b6bf42f5ac918865dbe508f86c99ba.png" group-title="➡ PERU DEPORTES",PE | CONTACTO TV
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/110.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Ovacion TV
