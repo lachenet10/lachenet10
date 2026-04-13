@@ -33,6 +33,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, Unitel TV
 https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
+#EXTINF:-1, Bonita TV
+https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=8343375
 #EXTINF:-1, Rumba TV
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8
 #EXTINF:-1, Teleselva
