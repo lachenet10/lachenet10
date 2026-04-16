@@ -29,6 +29,10 @@ https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 #EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="CANALES DE BOLIVIA",ZURACA TV HD
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="CANALES DE BOLIVIA",AMITEL TV HD
+https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, KBO Television
