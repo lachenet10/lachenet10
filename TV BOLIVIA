@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="CANALES DE BOLIVIA",PAT SANTA CRUZ HD
-https://www.redpat.tv/proxylpz/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="CANALES DE BOLIVIA",RED ADVENIR HD
-https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1940547209.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="CANALES DE BOLIVIA",TV LATINA HD
-https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
-
-#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
-https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-
-#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 SD
-https://tv2.bitstreaming.net:3235/multi_live/play_480.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TgMH1jk/VTV-poder-de-dios-hd.jpg" group-title="CANALES DE BOLIVIA",VTV TV HD
 https://ares.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w1597072523.m3u8
 
