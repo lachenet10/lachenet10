@@ -21,6 +21,10 @@ https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, KBO Television
