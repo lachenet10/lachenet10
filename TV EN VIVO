@@ -3,6 +3,8 @@
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1 tvg-id="" tvg-name="PE | CONTACTO TV" tvg-logo="http://lista.lamtv.site:8080/images/11b6bf42f5ac918865dbe508f86c99ba.png" group-title="➡ PERU DEPORTES",PE | CONTACTO TV
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | DIRECTV SPORTS • OP01" tvg-logo="http://lista.lamtv.site:8080/images/2072d4a7-c935-4ba5-9082-c4a5cf9548dc.jpg" group-title="⚡ DEPORTES PREMIUM",ARG | DIRECTV SPORTS • OP01
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/81497.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Ovacion TV
