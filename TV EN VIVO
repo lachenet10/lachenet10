@@ -7,6 +7,8 @@ http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/110.ts
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/81497.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 PE" tvg-logo="http://lista.lamtv.site:8080/images/2c5d54e6-90b2-4adf-8304-689489ae800d.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 1 PE
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 AR" tvg-logo="http://lista.lamtv.site:8080/images/2adc9ce1-1f40-4ff0-aebc-4bc51bfb186f.jpg" group-title="⚡ DEPORTES PREMIUM",ESPN 2 AR
+http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/76420.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Ovacion TV
