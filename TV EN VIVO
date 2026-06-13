@@ -13,6 +13,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1, CARIBEÑA TV
+https://live-evg16.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
 https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
@@ -46,9 +48,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8?uid=8343375
 #EXTINF:-1, Fillka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=8343375
 #EXTINF:-1, Rumba TV
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://t4.ftcdn.net/jpg/07/08/59/97/360_F_708599722_jhJwdDTxIbuBzmHRuTnW0ZYXqEkEWcYM.jpg" group-title="24/7 SERIES ACTUALES",24/7 | THUNDERCATS
 http://lista.lamtv.site:8080/Peru2020/q9WSTq6ayJ/127712.ts
-https://live-evg7.tv360.bitel.com.pe/bitel/rumba/chunks.m3u8
 #EXTINF:-1, Teleselva
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/chunks.m3u8
 #EXTINF:-1, TVO+
