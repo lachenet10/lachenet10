@@ -51,21 +51,21 @@ https://ia800502.us.archive.org/29/items/porkys-1_202604/Porkys%201.mp4
 https://ia800502.us.archive.org/29/items/porkys-1_202604/Porkys%202.mp4
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", La Revancha de Porkys
 https://ia800502.us.archive.org/29/items/porkys-1_202604/Porkys%203.mp4
-#EXTINF:-1, SISU
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", SISU
 https://ia802809.us.archive.org/15/items/sisu-camino-a-la-venganza/Sisu.mp4
-#EXTINF:-1, SiSU Camino a la venganza
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", SISU Camino a la venganza
 https://ia802809.us.archive.org/15/items/sisu-camino-a-la-venganza/Sisu%20Camino%20a%20la%20Venganza.mp4
-#EXTINF:-1, Inteligencia Artificial
-#EXTINF:-1, Infedilidad
-https://ia601801.us.archive.org/33/items/infidelidad.-2001/Infidelidad.2001.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Inteligencia Artificial
 https://ia801602.us.archive.org/28/items/inteligencia-artificial_202604/INTELIGENCIA%20ARTIFICIAL.mp4
-#EXTINF:-1, KUNG POW
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Infedilidad
+https://ia601801.us.archive.org/33/items/infidelidad.-2001/Infidelidad.2001.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Kung Pow
 https://ia601801.us.archive.org/33/items/infidelidad.-2001/KUNG%20POW.mp4
-#EXTINF:-1, Lady Rancho
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Lady Rancho
 https://ia601801.us.archive.org/33/items/infidelidad.-2001/Lady%20rancho.ia.mp4
-#EXTINF:-1, Oblivion
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Oblivion
 https://ia800806.us.archive.org/23/items/oblivion.-2013/Oblivion.2013.mp4
-#EXTINF:-1, Pasajeros
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg",Pasajeros
 https://ia800806.us.archive.org/23/items/oblivion.-2013/Pasajeros.mp4
-#EXTINF:-1, Moonfall
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images.justwatch.com/poster/316541604/s718/nowhere-2023.jpg", Moonfall
 https://ia903107.us.archive.org/20/items/la-exorcista-2022_202604/Moonfall.mp4
