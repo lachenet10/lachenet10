@@ -1,28 +1,18 @@
 #EXTM3U
-#EXTINF:-1,07/04 Mundial 01:00pm Canada vs Morocco = DGO HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279633.ts
-#EXTINF:-1,DIRECTV SPORTS+
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/81495.ts
-#EXTINF:-1,DIRECTV SPORTS+
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/81501.ts
-#EXTINF:-1,07/04 Mundial 01:00pm Canada vs Morocco = Telemundo HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279634.ts
-#EXTINF:-1,07/04 Mundial 01:00pm Canada vs Morocco = FOX HD (Ingles Audio)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279635.ts
-#EXTINF:-1,07/04 Mundial 01:00pm Canada vs Morocco =  TSN HD (Ingles Audio)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279636.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = Telemundo HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279637.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = LA1 HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279638.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = DGO HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279639.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = Chilevision HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279640.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = FOX HD (Audio Ingles)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279641.ts
-#EXTINF:-1,07/04 Mundial 05:00pm Paraguay vs France = TSN HD (Ingles Audio)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/279642.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = Telemundo HD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279899.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = Universo HD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279900.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = DGO HD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279901.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = TycSports HD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279902.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = FOX HD (Audio Ingles)
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279903.ts
+#EXTINF:-1,07/06 Mundial 08:00pm USA vs Belgium = TSN HD (Ingles Audio)
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/279904.ts
+#EXTINF:-1,24/7 ACS NETWORK
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/124499.ts
 #EXTINF:-1,National Geographic
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/1040.ts
 #EXTINF:-1,BOL | ANT TV TARIJA
