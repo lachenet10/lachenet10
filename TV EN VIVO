@@ -57,8 +57,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/chunks.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8?uid=8343375
 #EXTINF:-1, Casma Tv
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/chunks.m3u8
-#EXTINF:-1, OD TV
-https://live-evg5.tv360.bitel.com.pe/bitel/odtv2/chunks.m3u8?uid=8343375
 #EXTINF:-1, Cajamarca TV
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, TV+ Chincha
@@ -133,32 +131,5 @@ https://es1-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/conectado2/chunks.m3u8?ma
 https://live-evg5.tv360.bitel.com.pe/bitel/maxchannel/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, LDM TV ARGENTINA
 https://live-evg10.tv360.bitel.com.pe/bitel/pampaargentina/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Reino Infantil
-https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",El Reino Infantil
-https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD" tvg-logo="https://i.imgur.com/u7DOoBK.png" group-title="Undefined",El Reino Infantil
-https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek Fan (1080p)
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/B6XJN4g3/bollpzhd01.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
-https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
-#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/J76KpSjD/ctvklp.jpg" group-title="CANALES DE BOLIVIA",CTV TV HD
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
-#EXTINF:-1 tvg-id="RTP BOLIVIA" tvg-logo="https://i.postimg.cc/90MVPsZt/rtps2k.jpg" group-title="CANALES DE BOLIVIA",RTP LA PAZ HD
-https://rtp.noxun.net/hls720/stream3.m3u8
-#EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="CANALES DE BOLIVIA",TV LATINA HD
-https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
-#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="CANALES DE BOLIVIA",F10 HD
-https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="CANALES DE BOLIVIA",ZURACA TV HD
-https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
-#EXTINF:-1 tvg-id="PACEÑISIMA TV" tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="CANALES DE BOLIVIA",AMITEL TV HD
-https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
-#EXTINF:-1, Telecentro
-https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/chunks.m3u8
+
 
