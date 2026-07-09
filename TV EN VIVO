@@ -22,7 +22,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=vid
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 #EXTINF:-1, BH TV
-https://live-evg10.tv360.bitel.com.pe/bitel/bhtvSRT-TRA/chunks.m3u8?uid=7153286
+https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Aura TV
 https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Tiempo Real TV
