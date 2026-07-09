@@ -13,8 +13,6 @@ https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480
 https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
-#EXTINF:-1, KARIBEÑA TV
-https://live-evg16.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, KBO Television
