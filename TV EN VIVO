@@ -10,7 +10,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, AMERICA TV
 https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1, PANAMERICANA TV
-https://es3-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781554419&token=fd70b8bcd15bff0ddd47b8af8157c3d8
+https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, KARIBEÑA TV
