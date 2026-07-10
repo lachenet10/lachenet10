@@ -9,6 +9,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, AMERICA TV
 https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
+#EXTINF:-1,PE | Canal N
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/15.ts
 #EXTINF:-1, PANAMERICANA TV
 https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
 #EXTINF:-1, RPP
@@ -21,6 +23,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/chunks.m3u8?manifestfilter=
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1, Tooncast
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/1066.ts
 #EXTINF:-1, BH TV
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Tiempo Real TV
