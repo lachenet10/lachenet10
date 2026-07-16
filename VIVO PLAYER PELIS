@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://misitio.com/logos/avatar.jpg" group-title="Películas",Avatar (2009)
+#EXTINF:-1 tvg-logo="https://misitio.com/logos/avatar.jpg" group-title="Cine",Avatar (2009)
 https://tuservidor.com/peliculas/avatar.mp4
 
-#EXTINF:-1 tvg-logo="https://misitio.com/logos/titanic.jpg" group-title="Películas",Titanic (1997)
+#EXTINF:-1 tvg-logo="https://misitio.com/logos/titanic.jpg" group-title="Cine",Titanic (1997)
 https://tuservidor.com/peliculas/titanic.mp4
 
-#EXTINF:-1 tvg-logo="https://misitio.com/logos/rapidos.jpg" group-title="Acción",Rápidos y Furiosos X
+#EXTINF:-1 tvg-logo="https://misitio.com/logos/rapidos.jpg" group-title="Cine",Rápidos y Furiosos X
 https://tuservidor.com/peliculas/fastx.mp4
 
-#EXTINF:-1 tvg-logo="https://misitio.com/logos/spiderman.jpg" group-title="Marvel",Spider-Man: No Way Home
+#EXTINF:-1 tvg-logo="https://misitio.com/logos/spiderman.jpg" group-title="Cine",Spider-Man: No Way Home
 https://tuservidor.com/peliculas/spiderman.mp4
