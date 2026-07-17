@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="La mujer de negro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",La mujer de negro (2012)
+#EXTINF:-1 tvg-name="La mujer de negro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",Porvenir10 (2012)
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/202637.mp4
 #EXTINF:-1 tvg-name="NochedeBodasLAT2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",NochedeBodasLAT2024
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/202636.mp4
-#EXTINF:-1 tvg-name="No eres tú soy yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",No eres tú soy yo
+#EXTINF:-1 tvg-name="No eres tú soy yo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",Pamplona
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/202635.mp4
 #EXTINF:-1 tvg-name="May21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="CINE | OTRAS PELICULAS",May21
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/202634.mkv
