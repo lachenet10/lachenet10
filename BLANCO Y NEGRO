@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Blanco y negro S01E01
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",01
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196168.mp4
-#EXTINF:-1,Blanco y negro S01E02
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",02
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196169.mp4
-#EXTINF:-1,Blanco y negro S01E03
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",03
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196170.mp4
-#EXTINF:-1,Blanco y negro S01E04
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",04
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196171.mp4
-#EXTINF:-1,Blanco y negro S01E05
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",05
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196172.mp4
-#EXTINF:-1,Blanco y negro S01E06
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",06
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196173.mp4
-#EXTINF:-1,Blanco y negro S01E07
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",07
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196174.mp4
-#EXTINF:-1,Blanco y negro S01E10
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",10
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196175.mp4
-#EXTINF:-1,Blanco y negro S01E11
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",11
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196176.mp4
-#EXTINF:-1,Blanco y negro S01E12
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",12
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196177.mp4
-#EXTINF:-1,Blanco y negro S01E13
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",13
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196178.mp4
-#EXTINF:-1,Blanco y negro S01E14
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",14
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196179.mp4
-#EXTINF:-1,Blanco y negro S01E15
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",15
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196180.mp4
-#EXTINF:-1,Blanco y negro S01E16
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",16
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196181.mp4
-#EXTINF:-1,Blanco y negro S01E17
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",17
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196182.mp4
-#EXTINF:-1,Blanco y negro S01E18
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",18
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196183.mp4
-#EXTINF:-1,Blanco y negro S01E19
+#EXTINF:-1 tvg-name="mar" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="BLANCO Y NEGRO",19
 http://lamtv.site:8080/series/Peru26/sEYvwgwr2j/196184.mp4
