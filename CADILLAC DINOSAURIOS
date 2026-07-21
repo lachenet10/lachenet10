@@ -26,21 +26,19 @@ https://ia601902.us.archive.org/11/items/cadillac-09/cadillac%2012.mp4
 #EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 13
 https://ia801902.us.archive.org/11/items/cadillac-09/cadillac%2013.mp4
 
-
-
-#EXTINF:-1, 01
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 01
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2001.mp4
-#EXTINF:-1, 02
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 02
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2002.mp4
-#EXTINF:-1, 03
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 03
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2003.mp4
-#EXTINF:-1, 04
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 04
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2004.mp4
-#EXTINF:-1, 05
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 05
 https://ia601503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2005.mp4
-#EXTINF:-1, 06
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 06
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2006.mp4
-#EXTINF:-1, 07
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="LA CASA DE LOS DIBUJOS", 07
 https://ia801503.us.archive.org/28/items/la-casa-de-los-dibujos-07/La%20casa%20de%20los%20dibujos%2007.mp4
 
 
