@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1, cadillac 01
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="CADILLAC DINOSAURIOS", 01
 https://ia600506.us.archive.org/10/items/cadillac-04/cadillac%2001.mp4
-#EXTINF:-1, cadillac 02
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="CADILLAC DINOSAURIOS", 02
 https://ia800506.us.archive.org/10/items/cadillac-04/cadillac%2002.mp4
-#EXTINF:-1, cadillac 03
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tmdb.org/t/p/w600_an.jpg" group-title="CADILLAC DINOSAURIOS", 03
 https://ia800506.us.archive.org/10/items/cadillac-04/cadillac%2003.mp4
-#EXTINF:-1, cadillac 04
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 04
 https://ia600506.us.archive.org/10/items/cadillac-04/cadillac%2004.mp4
-#EXTINF:-1, cadillac 05
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 05
 https://ia600506.us.archive.org/10/items/cadillac-04/cadillac%2005.mp4
-#EXTINF:-1, cadillac 06
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 06
 https://ia600506.us.archive.org/10/items/cadillac-04/cadillac%2006.mp4
-#EXTINF:-1, cadillac 07
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 07
 https://ia600506.us.archive.org/10/items/cadillac-04/cadillac%2007.mp4
-#EXTINF:-1, cadillac 08
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 08
 https://ia801902.us.archive.org/11/items/cadillac-09/cadillac%2008.mp4
-#EXTINF:-1, cadillac 09
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 09
 https://ia601902.us.archive.org/11/items/cadillac-09/cadillac%2009.mp4
-#EXTINF:-1, cadillac 10
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 10
 https://ia801902.us.archive.org/11/items/cadillac-09/cadillac%2010.mp4
-#EXTINF:-1, cadillac 11
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 11
 https://ia601902.us.archive.org/11/items/cadillac-09/cadillac%2011.mp4
-#EXTINF:-1, cadillac 12
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 12
 https://ia601902.us.archive.org/11/items/cadillac-09/cadillac%2012.mp4
-#EXTINF:-1, cadillac 13
+#EXTINF:-1 tvg-name="cad" tvg-logo="https://image.tm.jpg" group-title="CADILLAC DINOSAURIOS", 13
 https://ia801902.us.archive.org/11/items/cadillac-09/cadillac%2013.mp4
 
 
