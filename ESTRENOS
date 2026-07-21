@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="pelicula" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzQNzYXnefCHxDEjK0_mgfRKFQMFLEba7GBAK0TzogmMT8o71pBHwfubE&s=10" group-title="Películas",Mario galaxy
+#EXTINF:-1, Super Mario Galaxy
 https://ia800708.us.archive.org/31/items/mariogalaxy_202604/mariogalaxy.mp4
 #EXTINF:-1, Pitufos 2025
 https://ia600706.us.archive.org/25/items/pitufos_20260720/Pitufos.mp4
