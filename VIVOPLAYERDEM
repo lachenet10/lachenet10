@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="Cine" tvg-logo="https://tu-servidor.com/posters/scarymovie6.jpg" group-title="Cine",Scary Movie 6
-https://ia801804.us.archive.org/32/items/scary-movie-6_202607/Scary%20Movie%206.mp4
-#EXTINF:-1 tvg-type="Cine" tvg-logo="https://tu-servidor.com/posters/scarymovie6.jpg" group-title="Cine",Scary Movie 6
-https://ia801804.us.archive.org/32/items/scary-movie-6_202607/Scary%20Movie%206.mp4
-#EXTINF:-1 tvg-type="Cine" tvg-logo="https://tu-servidor.com/posters/scarymovie6.jpg" group-title="Cine",Scary Movie 6
-https://ia801804.us.archive.org/32/items/scary-movie-6_202607/Scary%20Movie%206.mp4
+#EXTINF:-1 tvg-id="movie.scarymovie6" tvg-name="Scary Movie 6" tvg-logo="https://misitio.com/posters/scarymovie6.jpg" group-title="Cine",Scary Movie 6
+https://misitio.com/peliculas/scarymovie6.mp4
+
+#EXTINF:-1 tvg-id="movie.toystory5" tvg-name="Toy Story 5" tvg-logo="https://misitio.com/posters/toystory5.jpg" group-title="Cine",Toy Story 5
+https://misitio.com/peliculas/toystory5.mp4
+
+#EXTINF:-1 tvg-id="movie.avatar" tvg-name="Avatar" tvg-logo="https://misitio.com/posters/avatar.jpg" group-title="Cine",Avatar
+https://misitio.com/peliculas/avatar.mp4
