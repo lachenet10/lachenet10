@@ -1,10 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="movie.scarymovie6" tvg-name="Scary Movie 6" tvg-logo="https://misitio.com/posters/scarymovie6.jpg" group-title="Cine",Scary Movie 6
-https://misitio.com/peliculas/scarymovie6.mp4
+#EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E01 - Episodio 1
+https://tuservidor.com/series/miserie/S01E01.mp4
 
-#EXTINF:-1 tvg-id="movie.toystory5" tvg-name="Toy Story 5" tvg-logo="https://misitio.com/posters/toystory5.jpg" group-title="Cine",Toy Story 5
-https://misitio.com/peliculas/toystory5.mp4
+#EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E02 - Episodio 2
+https://tuservidor.com/series/miserie/S01E02.mp4
 
-#EXTINF:-1 tvg-id="movie.avatar" tvg-name="Avatar" tvg-logo="https://misitio.com/posters/avatar.jpg" group-title="Cine",Avatar
-https://misitio.com/peliculas/avatar.mp4
+#EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E03 - Episodio 3
+https://tuservidor.com/series/miserie/S01E03.mp4
+
+
+#EXTINF:-1 tvg-id="serie1"
+tvg-name="Mi Serie"
+tvg-logo="https://misitio.com/posters/miserie.jpg"
+group-title="Series",Mi Serie S01E01
+https://tuservidor.com/series/miserie/S01E01.mp4
+
+#EXTINF:-1 tvg-id="serie1"
+tvg-name="Mi Serie"
+tvg-logo="https://misitio.com/posters/miserie.jpg"
+group-title="Series",Mi Serie S01E02
+https://tuservidor.com/series/miserie/S01E02.mp4
+
+
+#EXTINF:-1 tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series",Fuller House S01E01
+https://servidor.com/fullerhouse/s01e01.mp4
+
+#EXTINF:-1 tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series",Fuller House S01E02
+https://servidor.com/fullerhouse/s01e02.mp4
+
+#EXTINF:-1 tvg-logo="https://misitio.com/posters/carrusel.jpg" group-title="Series",Carrusel S01E01
+https://servidor.com/carrusel/s01e01.mp4
+
+#EXTINF:-1 tvg-logo="https://servidor.com/posters/carrusel.jpg" group-title="Series",Carrusel S01E02
+https://servidor.com/carrusel/s01e02.mp4
+
+
+#EXTINF:-1 tvg-id="fullerhouse" tvg-name="Fuller House" tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series/Fuller House/Temporada 1",S01E01 - Nuestra primera vez
+https://servidor.com/fullerhouse/S01E01.mp4
+
+#EXTINF:-1 tvg-id="fullerhouse" tvg-name="Fuller House" tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series/Fuller House/Temporada 1",S01E02 - El gran día
+https://servidor.com/fullerhouse/S01E02.mp4
+
+
