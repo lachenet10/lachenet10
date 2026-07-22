@@ -2,10 +2,8 @@
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E01 - Episodio 1
 https://ia801609.us.archive.org/29/items/toystory5_202607/toystory5.mp4
-
 #EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E02 - Episodio 2
 https://ia801609.us.archive.org/29/items/toystory5_202607/toystory5.mp4
-
 #EXTINF:-1 tvg-id="serie1" tvg-name="Mi Serie" group-title="Series",Mi Serie S01E03 - Episodio 3
 https://ia801609.us.archive.org/29/items/toystory5_202607/toystory5.mp4
 
@@ -24,20 +22,16 @@ https://tuservidor.com/series/miserie/S01E02.mp4
 
 #EXTINF:-1 tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series",Fuller House S01E01
 https://servidor.com/fullerhouse/s01e01.mp4
-
 #EXTINF:-1 tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series",Fuller House S01E02
 https://servidor.com/fullerhouse/s01e02.mp4
 
 #EXTINF:-1 tvg-logo="https://misitio.com/posters/carrusel.jpg" group-title="Series",Carrusel S01E01
 https://servidor.com/carrusel/s01e01.mp4
-
 #EXTINF:-1 tvg-logo="https://servidor.com/posters/carrusel.jpg" group-title="Series",Carrusel S01E02
 https://servidor.com/carrusel/s01e02.mp4
 
-
 #EXTINF:-1 tvg-id="fullerhouse" tvg-name="Fuller House" tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series/Fuller House/Temporada 1",S01E01 - Nuestra primera vez
 https://servidor.com/fullerhouse/S01E01.mp4
-
 #EXTINF:-1 tvg-id="fullerhouse" tvg-name="Fuller House" tvg-logo="https://misitio.com/posters/fullerhouse.jpg" group-title="Series/Fuller House/Temporada 1",S01E02 - El gran día
 https://servidor.com/fullerhouse/S01E02.mp4
 
