@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Scary Movie 6
 https://ia801804.us.archive.org/32/items/scary-movie-6_202607/Scary%20Movie%206.mp4
+#EXTINF:-1, Toystory 5
+https://ia801609.us.archive.org/29/items/toystory5_202607/toystory5.mp4
 #EXTINF:-1, Super Mario Galaxy
 https://ia800708.us.archive.org/31/items/mariogalaxy_202604/mariogalaxy.mp4
 #EXTINF:-1, Pitufos 2025
@@ -19,8 +21,6 @@ https://ia903102.us.archive.org/19/items/estado-electrico_202604/Estado%20El%C3%
 https://ia903102.us.archive.org/19/items/estado-electrico_202604/M%C3%A1quina%20de%20Guerra.mp4
 #EXTINF:-1,Superman 2025
 https://ia601608.us.archive.org/11/items/superman-2025_20260721/Superman%202025.mp4
-#EXTINF:-1,Toy Story 5 (2026)
-http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/279334.mp4
 #EXTINF:-1,Street Fighter II: La película (1994)
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/262080.mkv
 #EXTINF:-1,Mufasa
