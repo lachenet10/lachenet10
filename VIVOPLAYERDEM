@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-name="Scary Movie 6",Scary Movie 6
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://tu-servidor.com/posters/scarymovie6.jpg" group-title="Movies",Scary Movie 6
 https://ia801804.us.archive.org/32/items/scary-movie-6_202607/Scary%20Movie%206.mp4
-
-#EXTINF:-1 tvg-type="movie" group-title="Movies" tvg-name="Toy Story 5",Toy Story 5
-https://ia801609.us.archive.org/29/items/toystory5_202607/toystory5.mp4
