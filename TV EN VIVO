@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1, AUNO PUNO
-https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
-#EXTINF:-1, QOLLASUYO Juliaca
-https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
-#EXTINF:-1, RTP Puno
-https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
-#EXTINF:-1, Antena Sur
-https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
-#EXTINF:-1, AMERICA TV
-https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
-#EXTINF:-1,PE | Canal N
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/15.ts
-#EXTINF:-1, PANAMERICANA TV
-https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
-#EXTINF:-1, RPP
-https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
-#EXTINF:-1, Planeta Historia
-https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10937997
-#EXTINF:-1, Planeta Salvaje
-https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, Urbana TV
