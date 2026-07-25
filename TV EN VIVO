@@ -7,8 +7,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
-#EXTINF:-1, Xtremo TV
-https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785027834&token=01f13f3d325d832b01f24f0b56784c3f
 #EXTINF:-1, AMERICA TV
 https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
