@@ -7,6 +7,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Xtremo TV
+https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785027834&token=01f13f3d325d832b01f24f0b56784c3f
 #EXTINF:-1, AMERICA TV
 https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
@@ -15,6 +17,10 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/15.ts
 https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
+#EXTINF:-1, Planeta Historia
+https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10937997
+#EXTINF:-1, Planeta Salvaje
+https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, Urbana TV
@@ -29,6 +35,8 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/1066.ts
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Tiempo Real TV
 https://live-evg11.tv360.bitel.com.pe/bitel/tiemporealtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Onda TV
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, DAC TV
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Imperial TV
