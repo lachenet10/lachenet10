@@ -112,7 +112,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/visionsur-UDP_abr/bitel/visionsur-UDP
 #EXTINF:-1, Unicentro Tv
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentro/chunks.m3u8
 #EXTINF:-1, Huanta TV
-https://live-evg18.tv360.bitel.com.pe/bitel/huantatv/chunks.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/huantatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785274077&token=54afbced68edf68f3cc2d3cd757c58be
 #EXTINF:-1, NZK TV
 https://live-evg10.tv360.bitel.com.pe/bitel/nasca/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, NKZ TV
