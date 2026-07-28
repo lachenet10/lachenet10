@@ -78,7 +78,7 @@ https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmo
 #EXTINF:-1, FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
 #EXTINF:-1, Creo Kids
-https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785273363&token=9f9127deefec448a8d792be19117a3af
 #EXTINF:-1, Anima Kids
 https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=8343375
 #EXTINF:-1, Studio TV
