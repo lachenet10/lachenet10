@@ -74,7 +74,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8?manifestfi
 #EXTINF:-1, TV+ Chincha
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 #EXTINF:-1, FMH movies
-https://es2-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781563272&token=7929dfeb63388d618fda909ba746fdd3
+https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785269205&token=b7dcaa18518b29a9cec1d1c6ce953643
 #EXTINF:-1, FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
 #EXTINF:-1, Creo Kids
