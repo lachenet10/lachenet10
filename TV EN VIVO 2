@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, FEDUP LIMA 2026
+https://live-evg10.tv360.bitel.com.pe/bitel/fedup/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, QOLLASUYO Juliaca
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 #EXTINF:-1, RTP Puno
@@ -27,10 +29,10 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Mega TV
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Max TV
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
-#EXTINF:-1, Pelicula de Suspenso
-https://www.youtube.com/watch?v=oxX_new26jw
 #EXTINF:-1, BH TV
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Tiempo Real TV
