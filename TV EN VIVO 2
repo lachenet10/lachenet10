@@ -23,6 +23,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10937997
 #EXTINF:-1, Planeta Salvaje
 https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
+#EXTINF:-1,HBO FAMILY
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/182877.ts
 #EXTINF:-1, Jeque TV
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Qosqo Times
