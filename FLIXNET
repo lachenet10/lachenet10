@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="alita" tvg-type="movie" group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c2e5e2dcd7b7a36b94a47fbc5acd04cecfa543d20067a35d2e92c33a6c3ce985._UR1920,1080_.jpg",Alita
+https://ia800502.us.archive.org/0/items/alita_202603/ALITA.mp4
+
+#EXTINF:-1 tvg-id="area51" tvg-type="movie" group-title="PELÍCULAS" tvg-logo="https://pics.filmaffinity.com/aArea_51-912329313-large.jpg",Área 51
+https://ia800607.us.archive.org/23/items/blanca-nieves-y-sus-7-amantes-1980_202603/Area%2051.mp4
+
+#EXTINF:-1 tvg-id="campeon" tvg-type="movie" group-title="PELÍCULAS" tvg-logo="https://images.justwatch.com/poster/243963135/s718/campeon.jpg",El Campeón
+https://ia800505.us.archive.org/7/items/el-campeon/EL%20CAMPEON.mp4
+
+#EXTINF:-1 tvg-id="chappie" tvg-type="movie" group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyNTI4NTIwNl5BMl5BanBnXkFtZTgwMjQ4MTI0NDE@._V1_.jpg",Chappie
+https://ia800403.us.archive.org/2/items/chappie_202603/CHAPPIE.mp4
