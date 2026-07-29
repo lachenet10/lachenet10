@@ -8,7 +8,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 #EXTINF:-1, RTP Puno
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 #EXTINF:-1, Xtremo TV
-https://es4-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785029793&token=5fa1ee00441cc9aaccdd0d10322894e1
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785361806&token=611867788c7281393ecb8e7d77a13dc4
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, AMERICA TV
@@ -23,6 +23,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10937997
 #EXTINF:-1, Planeta Salvaje
 https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
+#EXTINF:-1, Jeque TV
+https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, Urbana TV
@@ -33,6 +35,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=vid
 https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1, GTv Pisco
+https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/gtvpiscoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785361206&token=4f1aaffc67f5b032edfd15a2a35fe95d
 #EXTINF:-1, BH TV
 https://live-evg10.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Tiempo Real TV
@@ -49,6 +53,10 @@ https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8?uid=8343375
 #EXTINF:-1, Fillka TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?uid=8343375
+#EXTINF:-1, Creo Latino
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1, Andes TV
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Telelima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Rumba TV
