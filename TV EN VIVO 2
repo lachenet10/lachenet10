@@ -23,10 +23,16 @@ https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=10937997
 #EXTINF:-1, Planeta Salvaje
 https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
-#EXTINF:-1,HBO FAMILY
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182877.ts
 #EXTINF:-1, Jeque TV
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1,HBO FAMILY
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/182877.ts
+#EXTINF:-1,WARNER P
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/182910.ts
+#EXTINF:-1,NICKELODEON
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/1070.ts
+#EXTINF:-1,BITME
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/1049.ts
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, Urbana TV
@@ -37,6 +43,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?manifestfilter=vid
 https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+#EXTINF:-1,PE | MOVISTAR PLUS SD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127.ts
 #EXTINF:-1, GTv Pisco
 https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/gtvpiscoSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785361206&token=4f1aaffc67f5b032edfd15a2a35fe95d
 #EXTINF:-1, BH TV
@@ -85,8 +93,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, TV+ Chincha
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+#EXTINF:-1,FUEGO TV
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/168420.ts
 #EXTINF:-1, FMH movies
-https://es1-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhmovies_abr/bitel/fmhmovies_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785269205&token=b7dcaa18518b29a9cec1d1c6ce953643
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/167843.ts
 #EXTINF:-1, FMH Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
 #EXTINF:-1, Creo Kids
@@ -103,6 +113,12 @@ https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?mani
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, ONCE TV
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1,24/7 Estrenos Cine 2023 HD CAM
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/40219.ts
+#EXTINF:-1,24/7 El juego del calamar (2021) • LTV
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/163225.ts
+#EXTINF:-1,24/7 Pablo Escobar
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/260046.ts
 #EXTINF:-1, Huaral en Linea
 https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8?uid=8343375
 #EXTINF:-1, Aldia TV
@@ -117,6 +133,10 @@ https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/chunks.m3u8?uid=5272811
 #EXTINF:-1, Aura TV
 https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
+#EXTINF:-1,24/7 | THUNDERCATS
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127712.ts
 #EXTINF:-1, Sabor Mix
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Vision Sur
