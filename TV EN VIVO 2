@@ -29,6 +29,16 @@ https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=vi
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/182877.ts
 #EXTINF:-1,WARNER P
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/182910.ts
+#EXTINF:-1,24/7 Estrenos Cine 2023 HD CAM
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/40219.ts
+#EXTINF:-1,24/7 El juego del calamar (2021) • LTV
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/163225.ts
+#EXTINF:-1,24/7 Pablo Escobar
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/260046.ts
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
+#EXTINF:-1,24/7 | THUNDERCATS
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/127712.ts
 #EXTINF:-1,NICKELODEON
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/1070.ts
 #EXTINF:-1,BITME
@@ -113,12 +123,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/chunks.m3u8?mani
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, ONCE TV
 https://live-evg10.tv360.bitel.com.pe/bitel/canal11/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1,24/7 Estrenos Cine 2023 HD CAM
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/40219.ts
-#EXTINF:-1,24/7 El juego del calamar (2021) • LTV
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/163225.ts
-#EXTINF:-1,24/7 Pablo Escobar
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/260046.ts
 #EXTINF:-1, Huaral en Linea
 https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8?uid=8343375
 #EXTINF:-1, Aldia TV
@@ -133,10 +137,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/chunks.m3u8?uid=5272811
 #EXTINF:-1, Aura TV
 https://live-evg8.tv360.bitel.com.pe/bitel/auratvSRT/chunks.m3u8?uid=8343375
-#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
-#EXTINF:-1,24/7 | THUNDERCATS
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/127712.ts
 #EXTINF:-1, Sabor Mix
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Vision Sur
