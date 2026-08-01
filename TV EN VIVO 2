@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
+#EXTINF:-1, Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=16615881
 #EXTINF:-1, FEDUP LIMA 2026
 https://live-evg10.tv360.bitel.com.pe/bitel/fedup/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, QOLLASUYO Juliaca
@@ -39,6 +41,8 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/260046.ts
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/182898.ts
 #EXTINF:-1,FX P
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/182868.ts
+#EXTINF:-1, Andina RTV
+https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1,24/7 | LA FAMILIA PELUCHE
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
 #EXTINF:-1,24/7 | THUNDERCATS
@@ -47,6 +51,10 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/127712.ts
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/1070.ts
 #EXTINF:-1,BITME
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/1049.ts
+#EXTINF:-1, Nuestro Canal
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+#EXTINF:-1, Zeleve Tv
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1,ARG | DIRECTV SPORTS • OP01
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/81497.ts
 #EXTINF:-1,01 | STAR + (ESPN)
@@ -122,7 +130,7 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/168420.ts
 #EXTINF:-1, FMH movies
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/167843.ts
 #EXTINF:-1, FMH Kids
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
+https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785614892&token=b76ad2b1871f24a2a002112f258f3cdd
 #EXTINF:-1, Creo Kids
 https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785273363&token=9f9127deefec448a8d792be19117a3af
 #EXTINF:-1, Anima Kids
@@ -143,8 +151,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/huaralenlineaSRT-TRA/chunks.m3u8?uid=
 https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Doble C
 https://live-evg18.tv360.bitel.com.pe/bitel/doblecSRT/chunks.m3u8
-#EXTINF:-1, Andina RTV
-https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/chunks.m3u8
 #EXTINF:-1, Atlantis Tv Ayacucho
@@ -175,8 +181,6 @@ https://es2-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreomasSRT/chunks.m3u8?ma
 https://live-evg5.tv360.bitel.com.pe/bitel/yolitvSRT/chunks.m3u8?uid=8343375
 #EXTINF:-1, RTV INFANTIL
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
-#EXTINF:-1, Nuestro Canal
-https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, DUNAS TV
 https://es4-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/dunastv/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1781558361&token=cd41591595b775016481447576ba27b4
 #EXTINF:-1, Folklore TV
