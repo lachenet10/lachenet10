@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, AUNO PUNO
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/chunks.m3u8?uid=8343375
-#EXTINF:-1, Bicolor+
-https://live-evg10.tv360.bitel.com.pe/bitel/bicolorSRT/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=16615881
-#EXTINF:-1, FEDUP LIMA 2026
-https://live-evg10.tv360.bitel.com.pe/bitel/fedup/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, QOLLASUYO Juliaca
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/chunks.m3u8?uid=8343375
 #EXTINF:-1, RTP Puno
