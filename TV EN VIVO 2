@@ -12,7 +12,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, AMERICA TV
 https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/15.ts
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/17.ts
 #EXTINF:-1, PANAMERICANA TV
 https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
 #EXTINF:-1, RPP
@@ -23,10 +23,18 @@ https://live-evg10.tv360.bitel.com.pe/bitel/planetahisSRT/chunks.m3u8?manifestfi
 https://live-evg10.tv360.bitel.com.pe/bitel/planetasalSRT/chunks.m3u8?uid=5945567
 #EXTINF:-1, Jeque TV
 https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1,HBO FAMILY
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182877.ts
-#EXTINF:-1,WARNER P
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182910.ts
+#EXTINF:-1,CINECANAL • OP01
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/880.ts
+#EXTINF:-1,CINEMAX HD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/884.ts
+#EXTINF:-1,FX FHD
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/896.ts
+#EXTINF:-1,GOLDEN EDGE
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/79395.ts
+#EXTINF:-1,HBO FAMILY • OP02
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/129536.ts
+#EXTINF:-1,STAR CHANNEL i
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/182895.ts
 #EXTINF:-1,24/7 Estrenos Cine 2023 HD CAM
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/40219.ts
 #EXTINF:-1,24/7 El juego del calamar (2021) • LTV
@@ -39,14 +47,16 @@ http://lamtv.site:8080/Peru26/sEYvwgwr2j/182898.ts
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/182868.ts
 #EXTINF:-1, Andina RTV
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
+#EXTINF:-1,MX | DISTRITO COMEDIA
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/40217.ts
 #EXTINF:-1,24/7 | LA FAMILIA PELUCHE
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
-#EXTINF:-1,24/7 | THUNDERCATS
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/127712.ts
+#EXTINF:-1,24/7 Dragon Ball GT (e)
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/160075.ts
+#EXTINF:-1,24/7 Dinosaurios 1991
+http://lamtv.site:8080/Peru26/sEYvwgwr2j/53170.ts
 #EXTINF:-1,NICKELODEON
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/1070.ts
-#EXTINF:-1,BITME
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/1049.ts
 #EXTINF:-1, Nuestro Canal
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Zeleve Tv
