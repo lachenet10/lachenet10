@@ -10,11 +10,11 @@ https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?man
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, AMERICA TV
-https://live-evg17.tv360.bitel.com.pe/manifest/america/playlist_clean_source_480p.m3u8
+https://live-evg23.tv360.bitel.com.pe/BvwyJLbsTm99PlIiSbboFw/1786112436/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/17.ts
 #EXTINF:-1, PANAMERICANA TV
-https://es2-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?maxrate=10000000&minrate=0&wmkid=0&uid=10015361&timestamp=1783640745&token=b35033403071daeb8811a75778347827
+https://es4-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1786047582&token=67e974b1d5d339bb4df539336f46d314
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
 #EXTINF:-1, Planeta Historia
