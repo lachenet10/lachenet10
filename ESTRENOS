@@ -3,10 +3,8 @@
 https://ia800604.us.archive.org/28/items/odisea10/La%20odisea.mp4
 #EXTINF:-1,La odisea (2026)
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/281252.mkv
-#EXTINF:-1,Jurassic Park
-http://192.168.1.15:5000/?timestamp=1786130198&launchApp=SYNO.VideoController2.Application&SynoToken=YD2HQkR1OV5Ao&launchParam=player_id%3Dstreaming%26browse_type%3Dfilevideo%26video_type%3Dfilevideo%26is_drive%3Dfalse%26path%3D%252Fvolume1%252FPlexMediaServer%252Fdrivepool%252Fmedia%252FEstrenos%25202025%252FSuperman%2520(2025).mkv
 #EXTINF:-1,SUPERMAN22
-https://gofile.me/7mqbh/pH4CBCUdc
+http://192.168.1.15:32400/web/index.html#!/server/9ec72df8c832bce3c97049bd0d2db6af06b20a80/details?key=%2Flibrary%2Fmetadata%2F741&context=source%3Acontent.library~0~1
 #EXTINF:-1,Spider-Man: Un nuevo dia 2026
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/282732.mp4
 #EXTINF:-1,He-Man y los masters del universo (2026)
