@@ -11,6 +11,8 @@ http://192.168.1.15:8096/web/index.html#!/videoosd/videoosd.html
 http://192.168.1.15:8096/web/index.html#!/item?id=108086&serverId=d63481c7864e45bb96f0da2c50ba3b48
 #EXTINF:-1,CHABUKA22
 http://192.168.1.15:8096/web/index.html#!/item?id=108085&serverId=d63481c7864e45bb96f0da2c50ba3b48
+#EXTINF:-1,CHABU55
+http://192.168.1.15:8096/web/index.html#!/item?id=108085&serverId=d63481c7864e45bb96f0da2c50ba3b48
 #EXTINF:-1,Spider-Man: Un nuevo dia 2026
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/282732.mp4
 #EXTINF:-1,He-Man y los masters del universo (2026)
