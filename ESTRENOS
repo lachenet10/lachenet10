@@ -5,12 +5,12 @@ https://ia800604.us.archive.org/28/items/odisea10/La%20odisea.mp4
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/281252.mkv
 #EXTINF:-1,CHABUCA
 https://gofile.me/7mqbh/Y88wlJsXv
-#EXTINF:-1,ATLAS
-http://192.168.1.15:5000/?timestamp=1786158031&launchApp=SYNO.SDS.VideoStation.AppInstance&SynoToken=tjbnAIvxFuoBI#!Home/N4IgNglgRgTghjAniAXCAtgewG4QKYC0AjCADQgDGcALngOaZKogx4V4B21YiA+nABMBeAWRAAHOHTyoi5XMMypQEUSgDM5aonEy0WXDPKTqACwAqEbnpABBbnADOY9HHG6YvVbIDs5SLAIfN4oRAC+YUA
+#EXTINF:-1,ATLAS CHABUCA
+http://192.168.1.15:8096/web/index.html#!/videoosd/videoosd.html
 #EXTINF:-1,ATLAS 3
-http://192.168.1.15:5000/?timestamp=1786158031&launchApp=SYNO.SDS.VideoStation.AppInstance&SynoToken=tjbnAIvxFuoBI#!Home/N4IgNglgRgTghjAniAXCAtgewG4QKYC0AjCADQgDGcALngOaZKogx4V4B21YiA+nABMBeAWRAAHOHTyoi5XMMypQEUSgDM5aonEy0WXDPKTqACwAqEbnpABBbnADOY9HHG6YvVbIDs5SLAIfN4oRAC+YUA
+http://192.168.1.15:8096/web/index.html#!/item?id=108086&serverId=d63481c7864e45bb96f0da2c50ba3b48
 #EXTINF:-1,CHABUKA22
-/volume1/Peliculas/Chabuca (2024).mkv
+http://192.168.1.15:8096/web/index.html#!/item?id=108085&serverId=d63481c7864e45bb96f0da2c50ba3b48
 #EXTINF:-1,Spider-Man: Un nuevo dia 2026
 http://lamtv.site:8080/movie/Peru26/sEYvwgwr2j/282732.mp4
 #EXTINF:-1,He-Man y los masters del universo (2026)
