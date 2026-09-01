@@ -9,16 +9,16 @@ https://live-evg7.tv360.bitel.com.pe/bitel/rtp/chunks.m3u8
 https://es3-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1788301146&token=7245d706b127760bcf163e8069c6e5d9
 #EXTINF:-1, Antena Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
+#EXTINF:-1, Cositel Juliaca
+https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1, AMERICA TV
 https://live-evg23.tv360.bitel.com.pe/gQSrsNn7k-QxUlevp_pk_Q/1788365553/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/17.ts
 #EXTINF:-1, PANAMERICANA TV
-https://es4-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1786047582&token=67e974b1d5d339bb4df539336f46d314
+https://es5-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1788301689&token=cc73c69b5c116bf30b6a75c91d8b279d
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
-#EXTINF:-1, Jeque TV
-https://live-evg8.tv360.bitel.com.pe/bitel/jequetv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
 #EXTINF:-1,CINECANAL • OP01
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/880.ts
 #EXTINF:-1,CINEMAX HD
