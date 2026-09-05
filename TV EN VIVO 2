@@ -11,62 +11,44 @@ https://es3-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/extremotv/chunks.m3u8?man
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/chunks.m3u8?uid=8343375
 #EXTINF:-1, Cositel Juliaca
 https://live-evg10.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1, AMERICA TV
-https://live-evg23.tv360.bitel.com.pe/gQSrsNn7k-QxUlevp_pk_Q/1788365553/manifest/america/playlist_clean_source_480p.m3u8
 #EXTINF:-1,PE | Canal N
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/17.ts
-#EXTINF:-1, PANAMERICANA TV
-https://es5-p2-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1788301689&token=cc73c69b5c116bf30b6a75c91d8b279d
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/17.ts
 #EXTINF:-1, RPP
 https://live-evg8.tv360.bitel.com.pe/bitel/rpp/chunks.m3u8?uid=12955367
-#EXTINF:-1,CINECANAL • OP01
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/880.ts
-#EXTINF:-1,CINEMAX HD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/884.ts
-#EXTINF:-1,FX FHD
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/896.ts
-#EXTINF:-1,GOLDEN EDGE
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/79395.ts
-#EXTINF:-1,HBO FAMILY • OP02
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/129536.ts
-#EXTINF:-1,STAR CHANNEL i
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182895.ts
-#EXTINF:-1,24/7 Estrenos Cine 2023 HD CAM
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/40219.ts
-#EXTINF:-1,24/7 El juego del calamar (2021) • LTV
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/163225.ts
-#EXTINF:-1,24/7 Pablo Escobar
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/260046.ts
-#EXTINF:-1,SYFY i
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182898.ts
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/127678.ts
+#EXTINF:-1,MX | DISTRITO COMEDIA
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40217.ts
+#EXTINF:-1,ENT | LAS ESTRELLAS
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/82347.ts
+#EXTINF:-1,FX HD
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/898.ts
 #EXTINF:-1,FX P
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/182868.ts
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182868.ts
+#EXTINF:-1,HBO • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/905.ts
+#EXTINF:-1,HBO 2 • OP01 ☆
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/906.ts
+#EXTINF:-1,HBO FAMILY • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/913.ts
+#EXTINF:-1,Space • OP01
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/947.ts
+#EXTINF:-1,24/7 CINE 2023
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40218.ts
+#EXTINF:-1,24/7 Estrenos Cine 2023
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/40219.ts
+#EXTINF:-1,24/7 LA PROFECÍA • LTV
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/182484.ts
 #EXTINF:-1, Andina RTV
 https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=10015361
-#EXTINF:-1,MX | DISTRITO COMEDIA
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/40217.ts
-#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/127678.ts
-#EXTINF:-1,24/7 Dragon Ball GT (e)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/160075.ts
-#EXTINF:-1,24/7 Dinosaurios 1991
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/53170.ts
+#EXTINF:-1,BITME
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1049.ts
 #EXTINF:-1,NICKELODEON
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/1070.ts
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/1070.ts
 #EXTINF:-1, Nuestro Canal
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
 #EXTINF:-1, Zeleve Tv
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
-#EXTINF:-1,ARG | DIRECTV SPORTS • OP01
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/81497.ts
-#EXTINF:-1,01 | STAR + (ESPN)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/116308.ts
-#EXTINF:-1,ESPN 1 PE
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/115.ts
-#EXTINF:-1,CO | WIN SPORTS  • OP01
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/81490.ts
-#EXTINF:-1,⭐ PE | L1MAX - (Directo)
-http://lamtv.site:8080/Peru26/sEYvwgwr2j/80602.ts
 #EXTINF:-1, Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8?uid=8343375
 #EXTINF:-1, Urbana TV
@@ -133,8 +115,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/168420.ts
 #EXTINF:-1, FMH movies
 http://lamtv.site:8080/Peru26/sEYvwgwr2j/167843.ts
-#EXTINF:-1, FMH Kids
-https://es5-p2-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785614892&token=b76ad2b1871f24a2a002112f258f3cdd
+#EXTINF:-1,FMH KIDS
+http://ltv.ddns.net:8080/Peru10/6K2PFnprpn/167842.ts
 #EXTINF:-1, Creo Kids
 https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=10015361&timestamp=1785273363&token=9f9127deefec448a8d792be19117a3af
 #EXTINF:-1, Anima Kids
